@@ -1,0 +1,26 @@
+*{
+  margin:0;
+  padding: 0;
+}
+.flexbox{
+  width: 95%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap:wrap
+}
+.itembox{
+  padding: 20px 2.2%;
+}
+.ProfileName{
+  text-align: center;
+  font-size: 30px;
+}
+.icon{
+  padding-top: 10px;
+  width: 140px;
+  border-radius: 50%;
+}
+
+.SecTitle{
+  text-align: center;
+}

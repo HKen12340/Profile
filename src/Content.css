@@ -1,0 +1,32 @@
+.content {
+  width: 330px;
+  height: 330px;
+  border: 1px solid black;
+  border-radius: 5%;
+  padding: 5px;
+  overflow-wrap: break-word;
+}
+.content h3 {
+  text-align: center;
+}
+
+.imgStyle {
+  height: 60px;
+  text-align: center;
+}
+
+.imgMul {
+  width: 70px;
+  text-align: center;
+}
+
+.imgContent {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.Context {
+  list-style: none;
+}
+
+/*# sourceMappingURL=Content.css.map */
