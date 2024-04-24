@@ -1,26 +1,21 @@
 {
   "files": {
     "main.css": "/Profile/static/css/main.b246f8ea.css",
-    "main.js": "/Profile/static/js/main.36bf89c2.js",
+    "main.js": "/Profile/static/js/main.d49c4662.js",
     "static/js/453.8ab44547.chunk.js": "/Profile/static/js/453.8ab44547.chunk.js",
-    "static/media/fuzi.jpg": "/Profile/static/media/fuzi.ec81a814bc2c26dd30f3.jpg",
+    "static/media/fuzi.jpg": "/Profile/static/media/fuzi.6e8b583693ca84b83488.jpg",
     "static/media/suisou_side.png": "/Profile/static/media/suisou_side.44b778194ea7ec29430d.png",
-    "static/media/robot1_blue.png": "/Profile/static/media/robot1_blue.17073a639094c4a386a2.png",
-    "static/media/php.png": "/Profile/static/media/php.2e4bb73e74c0e22758c9.png",
+    "static/media/robot1_blue.png": "/Profile/static/media/robot1_blue.836860661dd0e2b5da04.png",
     "static/media/mogura.png": "/Profile/static/media/mogura.61d8a452b3024ca7ad57.png",
-    "static/media/python.png": "/Profile/static/media/python.2c7ec3a8e7ab9df60879.png",
-    "static/media/ccr_logo.png": "/Profile/static/media/ccr_logo.8be71ffb9f11530fabad.png",
-    "static/media/C_Logo.png": "/Profile/static/media/C_Logo.bbbbbabc8c191bfb99bf.png",
-    "static/media/Logo_C_sharp.png": "/Profile/static/media/Logo_C_sharp.c51fbb222d07b301fbb9.png",
-    "static/media/java.svg": "/Profile/static/media/java.5e8cb917c7f11276e9f9d00d4dce53b5.svg",
+    "static/media/java.svg": "/Profile/static/media/java.c2d42eabc10555802c63bb8283e6ea21.svg",
     "static/media/logo.svg": "/Profile/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Profile/index.html",
     "main.b246f8ea.css.map": "/Profile/static/css/main.b246f8ea.css.map",
-    "main.36bf89c2.js.map": "/Profile/static/js/main.36bf89c2.js.map",
+    "main.d49c4662.js.map": "/Profile/static/js/main.d49c4662.js.map",
     "453.8ab44547.chunk.js.map": "/Profile/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b246f8ea.css",
-    "static/js/main.36bf89c2.js"
+    "static/js/main.d49c4662.js"
   ]
 }
