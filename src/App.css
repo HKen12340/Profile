@@ -1,15 +1,21 @@
 *{
-  margin:0;
+  margin: 0 auto;
   padding: 0;
 }
 .flexbox{
-  width: 95%;
-  margin: 0 auto;
+  width: 1200px;
   display: flex;
-  flex-wrap:wrap
+  flex-wrap:wrap;
 }
+
+.flexbox_min{
+  width: 80%;
+  display: flex;
+  flex-wrap:wrap;
+}
+
 .itembox{
-  padding: 20px 2.2%;
+  padding: 20px 2%;
 }
 .ProfileName{
   text-align: center;
