@@ -7,5 +7,10 @@
   color: white;
   font-size: 30px;
 }
+@media screen and (max-width: 450px) {
+  .header p {
+    font-size: 20px;
+  }
+}
 
 /*# sourceMappingURL=header.css.map */

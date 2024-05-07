@@ -6,6 +6,13 @@
   padding: 5px;
   overflow-wrap: break-word;
 }
+@media screen and (max-width: 450px) {
+  .content {
+    font-size: 12px;
+    width: 260px;
+    height: 260px;
+  }
+}
 .content h3 {
   text-align: center;
 }

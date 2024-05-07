@@ -91,6 +91,9 @@ function App() {
 
   return (
     <div className="App">
+      <header>
+        <title>プロフィールサイト</title>
+      </header>
       <Header></Header>
       
       <div className="ProfileName">
